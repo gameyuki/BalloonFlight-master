@@ -13,7 +13,8 @@ Application::~Application()
 
 bool Application::Initialize()
 {
-
+	m_pMainWindow = new Lib::Window;
+	m_pSceneManager = new Lib::SceneManager;
 	return true;
 }
 
