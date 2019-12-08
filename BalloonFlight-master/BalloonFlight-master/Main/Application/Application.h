@@ -59,6 +59,9 @@ public:
 	*/
 	void Run();
 
+	/* Test—p */
+	void Test();
+
 private:
 
 	/* TODO ƒRƒƒ“ƒg */
